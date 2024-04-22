@@ -1,4 +1,4 @@
-#!/Users/jabezdailey/Repositories/budgeting-app-backend/venv/bin/python3.12
+#!/Users/zaydenchin/Documents/Github_projects/Budgeting-App-Backend/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
