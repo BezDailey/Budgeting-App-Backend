@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS users;
+
+CREATE TABLE users (
+  userID INTEGER PRIMARY KEY AUTOINCREMENT,
+  userName TEXT NOT NULL,
+  userPassword TEXT NOT NULL,
+  userEmail TEXT NOT NULL
+);
